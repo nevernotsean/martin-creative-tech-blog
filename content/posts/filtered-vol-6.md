@@ -5,14 +5,34 @@ title: FILTERED vol 6
 author: Martin CTs
 
 ---
-MaybeBaby - [Programmer makes original Doom playable on pregnancy test](cnet.com/news/programmer-makes-original-doom-playable-on-pregnancy-test/#:\~:text=The%20idea%20of%20running%20iconic,playing%20on%20a%20pregnancy%20test.&text=Yesterday%20I%20had%20a%20lot,Doom%20on%20a%20pregnancy%20test. "Programmer makes original Doom playable on pregnancy test")
+Hi Martinites, this is a tiny weekly email called FILTERED: five creative tech links to inspire and inform. After a brief break we’re back at it again, get your eye orbs ready and let’s go!
 
-[https://twitter.com/Foone/status/1302823968198389761?s=20](https://twitter.com/Foone/status/1302823968198389761?s=20 "https://twitter.com/Foone/status/1302823968198389761?s=20")
+BOOM STICK – A programmer makes original Doom playable on pregnancy test.
 
-DIWHY - [Guy makes the ultimate COVID mask](https://www.youtube.com/watch?v=ccjSo2Cq3gg&feature=emb_logo)
+[https://cnet.com/news/programmer-makes-original-doom-playable-on-pregnancy-test](https://cnet.com/news/programmer-makes-original-doom-playable-on-pregnancy-test "https://cnet.com/news/programmer-makes-original-doom-playable-on-pregnancy-test")
 
-[This aquarium in St. Louis will turn any fish drawing into into a digital fish.](https://www.tiktok.com/@aquariumstl/video/6850517663177870597?source=h5_m)
+[https://twitter.com/Foone/status/1302823968198389761?s=20](https://twitter.com/Foone/status/1302823968198389761?s=20 "https://twitter.com/Foone/status/1302823968198389761?s=20")	
 
-GRAPHICS - [Nvidia showcases their new Flagship graphics processor lineup with this impressive Marble course scene rendered in real-time.](https://www.youtube.com/watch?v=NgcYLIvlp_k)
+			
 
-WHATTAWEBSITE - Collection of 30 daily WebGL experiments. [https://experiments.p5aholic.me/](https://experiments.p5aholic.me/ "https://experiments.p5aholic.me/")
+DIWHY - Guy creates the ultimate COVID mask: a state of the art fishbowl equipped with filtered intake fans, microphone and speaker system. Mk II will feature a nose scratcher.
+
+[https://www.youtube.com/watch?v=ccjSo2Cq3gg&feature=emb_logo](https://www.youtube.com/watch?v=ccjSo2Cq3gg&feature=emb_logo "https://www.youtube.com/watch?v=ccjSo2Cq3gg&feature=emb_logo")
+
+	
+
+THANKSFORALLTHE – Fish drawings instantly turn into digital fish at the St. Louis aquarium.
+
+[https://www.tiktok.com/@aquariumstl/video/6850517663177870597?source=h5_m](https://www.tiktok.com/@aquariumstl/video/6850517663177870597?source=h5_m "https://www.tiktok.com/@aquariumstl/video/6850517663177870597?source=h5_m")
+
+	
+
+HYPER REAL - Nvidia showcases their new flagship graphics processor lineup with this impressive marble obstacle course rendered in real-time.
+
+[https://www.youtube.com/watch?v=NgcYLIvlp_k](https://www.youtube.com/watch?v=NgcYLIvlp_k "https://www.youtube.com/watch?v=NgcYLIvlp_k")
+
+WHATTAWEBSITE – Webamp is a recreation of your favorite 90’s music player and lets you scroll through over 65k Winamp skins. It really kicks the Llama’s ass.
+
+[https://webamp.org/](https://webamp.org/ "https://webamp.org/")
+
+[https://skins.webamp.org/](https://skins.webamp.org/ "https://skins.webamp.org/")
