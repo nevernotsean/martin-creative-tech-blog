@@ -5,3 +5,8 @@ title: FILTERED vol 6
 author: Martin CTs
 
 ---
+MaybeBaby - [Programmer makes original Doom playable on pregnancy test](cnet.com/news/programmer-makes-original-doom-playable-on-pregnancy-test/#:\~:text=The%20idea%20of%20running%20iconic,playing%20on%20a%20pregnancy%20test.&text=Yesterday%20I%20had%20a%20lot,Doom%20on%20a%20pregnancy%20test. "Programmer makes original Doom playable on pregnancy test")
+
+[https://twitter.com/Foone/status/1302823968198389761?s=20](https://twitter.com/Foone/status/1302823968198389761?s=20 "https://twitter.com/Foone/status/1302823968198389761?s=20")
+
+DIWHY - [Guy makes the ultimate COVID mask](https://www.youtube.com/watch?v=ccjSo2Cq3gg&feature=emb_logo)
