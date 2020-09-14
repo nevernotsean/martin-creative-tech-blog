@@ -14,3 +14,5 @@ DIWHY - [Guy makes the ultimate COVID mask](https://www.youtube.com/watch?v=ccjS
 [This aquarium in St. Louis will turn any fish drawing into into a digital fish.](https://www.tiktok.com/@aquariumstl/video/6850517663177870597?source=h5_m)
 
 GRAPHICS - [Nvidia showcases their new Flagship graphics processor lineup with this impressive Marble course scene rendered in real-time.](https://www.youtube.com/watch?v=NgcYLIvlp_k)
+
+WHATTAWEBSITE - Collection of 30 daily WebGL experiments. [https://experiments.p5aholic.me/](https://experiments.p5aholic.me/ "https://experiments.p5aholic.me/")
