@@ -37,6 +37,7 @@ fields:
   default: "/content/images/chrome_fxiev0j6ip.png"
 pages:
 - content/posts/filtered-vol-6.md
+- content/posts/filtered-vol.1.md
 - content/posts/filtered-vol.2.md
 - content/posts/filtered-vol.3.md
 - content/posts/filtered-vol.4.md
