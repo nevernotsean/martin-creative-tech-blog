@@ -12,7 +12,6 @@ module.exports = {
     primaryColor: config.primary_color,
     infoData: infoData,
   },
-  pathPrefix: "/martin-creative-tech-blog",
   plugins: [
     "gatsby-plugin-sass",
     "gatsby-transformer-remark",
