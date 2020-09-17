@@ -5,19 +5,15 @@ title: FILTERED Vol. 1
 author: Martin CTs
 
 ---
-Hi Creatives, this is a tiny weekly email we’re putting together called FILTERED, five creative tech links to inspire and inform.
+This is a tiny weekly email we’re putting together called FILTERED, five creative tech links to inspire and inform.
 
 Throw on your blue light glasses and let’s go!
-
- 
 
 **HIS NAME IS WALDO NOT WALDON’T**
 
 ‘There's Waldo’ is a little robot that uses Machine Learning to find Waldo, saving countless hours for children at playtime and me after thirsty Thursdays.
 
 [https://www.youtube.com/watch?v=-i7HMPpxB-Y](https://www.youtube.com/watch?v=-i7HMPpxB-Y "https://www.youtube.com/watch?v=-i7HMPpxB-Y")
-
- 
 
 **ARTIFICIAL STUPIDITY**
 
@@ -33,13 +29,11 @@ Reconstructing Journalistic Scenes in 3D. What starts as a boring website sudden
 
 [https://rd.nytimes.com/projects/reconstructing-journalistic-scenes-in-3d](https://rd.nytimes.com/projects/reconstructing-journalistic-scenes-in-3d "https://rd.nytimes.com/projects/reconstructing-journalistic-scenes-in-3d")
 
- 
-
 **HACK THE PLANET**
 
-Facebook Global Hackathon Winners 
+Facebook Global Hackathon Winners
 
-Facebook hosted a global hackathon for its AR filter creation tool Spark AR. 
+Facebook hosted a global hackathon for its AR filter creation tool Spark AR.
 
 Little Foodies: let the world know what you really think of your next lunchtime order.
 
@@ -47,11 +41,9 @@ BlowBubbles: Create virtual bubbles by blowing into the your microphone.
 
 Pirate Dash 360: A fun, immersive puzzle game.
 
- 
-
 [https://sparkar.facebook.com/blog/facebook-global-hackathon-winning-spark-ar-effects](https://sparkar.facebook.com/blog/facebook-global-hackathon-winning-spark-ar-effects "https://sparkar.facebook.com/blog/facebook-global-hackathon-winning-spark-ar-effects")
 
-WANNA FIGHT ABOUT IT? 
+WANNA FIGHT ABOUT IT?
 
 Our very own MARTY Intern Rega made her own Instagram filter. Check it out here (Be sure to click this link on your smart phone)
 
