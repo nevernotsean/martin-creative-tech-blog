@@ -5,7 +5,7 @@ title: FILTERED Vol. 2
 author: Martin CTs
 
 ---
-Hi Martinites, this is a weekly email called FILTERED, five creative tech links to inspire and inform. Throw on your VR headset and lets go!
+This is a weekly email called FILTERED, five creative tech links to inspire and inform. Throw on your VR headset and lets go!
 
 **HACK THE PLANET:**
 
