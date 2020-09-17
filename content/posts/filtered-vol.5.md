@@ -1,7 +1,7 @@
 ---
 date: 2020-08-31T16:39:03-04:00
 hero_image: "/content/images/chrome_fxiev0j6ip.png"
-title: FILTERED Vol.5
+title: FILTERED Vol. 5
 author: Martin CTs
 
 ---
