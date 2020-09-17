@@ -34,6 +34,6 @@ fields:
     maxSize: '10'
   label: hero image
   description: Enter hero image for blog post here
-  default: "/content/images/sarah-dorweiler-9Z1KRIfpBTM-unsplash.jpg"
+  default: "/content/images/chrome_fxiev0j6ip.png"
 pages:
 - content/posts/filtered-vol-6.md
