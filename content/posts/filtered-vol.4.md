@@ -5,7 +5,7 @@ title: FILTERED Vol. 4
 author: Martin CTs
 
 ---
-Hi Martinites, this is a tiny weekly email called FILTERED, with five creative tech links to inspire and inform. Warm up your click-finger and let’s go!
+This is a tiny weekly email called FILTERED, with five creative tech links to inspire and inform. Warm up your click-finger and let’s go!
 
 **Free Basic Registration to SIGGRAPH2020 with code SIGGRAPHBEYOND**
 

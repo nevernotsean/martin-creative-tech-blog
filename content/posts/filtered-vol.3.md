@@ -5,7 +5,7 @@ title: FILTERED Vol. 3
 author: Martin CTs
 
 ---
-Hi Martinites, this is a tiny weekly email called FILTERED, the one with the odd lack of spaces and five creative tech links to inspire and inform. Put down your TikTok clone and let’s go!
+This is a tiny weekly email called FILTERED, the one with the odd lack of spaces and five creative tech links to inspire and inform. Put down your TikTok clone and let’s go!
 
 **AMERICAN PROBLEM, MEET AMERICAN SOLUTION**
 
@@ -30,8 +30,6 @@ Google lens announces new ‘Homework’ Filter, 15 years too late to save my fa
 A funny commercial that shows the average day of a slow internet user.
 
 [https://youtu.be/efc_A9rVSc4](https://youtu.be/efc_A9rVSc4 "https://youtu.be/efc_A9rVSc4")
-
- 
 
 **WERENOSTRANGERTOLOVE**
 
