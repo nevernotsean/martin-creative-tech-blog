@@ -1,5 +1,5 @@
 ---
-date: 2020-09-17T16:44:26-04:00
+date: 2020-08-11T16:44:26-04:00
 hero_image: "/content/images/chrome_fxiev0j6ip.png"
 title: FILTERED Vol. 2
 author: Martin CTs
