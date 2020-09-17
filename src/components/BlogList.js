@@ -17,9 +17,7 @@ export default function BlogList() {
                 <li className={blogListStyles.li} key={blog.node.fields.slug}>
                   <div className={blogListStyles.list__hero}>
                     <Img 
-                      fluid={
-                        blog.node.frontmatter.hero_image.childImageSharp.fluid
-                      }
+                      fluid={blog.node.frontmatter.hero_image}
                       alt={blog.node.frontmatter.title}
                     />
                   </div>
