@@ -1,14 +1,10 @@
 ---
-date: 2020-08-03T16:46:45-04:00
+date: 2020-08-03T16:46:45.000-04:00
 hero_image: "/content/images/chrome_fxiev0j6ip.png"
 title: FILTERED Vol. 1
 author: Martin CTs
 
 ---
-This is a tiny weekly email we’re putting together called FILTERED, five creative tech links to inspire and inform.
-
-Throw on your blue light glasses and let’s go!
-
 **HIS NAME IS WALDO NOT WALDON’T**
 
 ‘There's Waldo’ is a little robot that uses Machine Learning to find Waldo, saving countless hours for children at playtime and me after thirsty Thursdays.
