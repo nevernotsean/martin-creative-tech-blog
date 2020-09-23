@@ -1,12 +1,10 @@
 ---
-date: 2020-08-17T16:43:34-04:00
+date: 2020-08-17T16:43:34.000-04:00
 hero_image: "/content/images/chrome_fxiev0j6ip.png"
 title: FILTERED Vol. 3
 author: Martin CTs
 
 ---
-This is a tiny weekly email called FILTERED, the one with the odd lack of spaces and five creative tech links to inspire and inform. Put down your TikTok clone and let’s go!
-
 **AMERICAN PROBLEM, MEET AMERICAN SOLUTION**
 
 Man makes gun that fires masks onto faces then tests it out on the beaches of California.
