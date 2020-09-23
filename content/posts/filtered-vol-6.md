@@ -5,8 +5,6 @@ title: FILTERED Vol. 6
 author: Martin CTs
 
 ---
-This is a tiny weekly email called FILTERED: five creative tech links to inspire and inform. After a brief break we’re back at it again, get your eye orbs ready and let’s go!
-
 BOOM STICK – A programmer makes original Doom playable on pregnancy test.
 
 [https://cnet.com/news/programmer-makes-original-doom-playable-on-pregnancy-test](https://cnet.com/news/programmer-makes-original-doom-playable-on-pregnancy-test "https://cnet.com/news/programmer-makes-original-doom-playable-on-pregnancy-test")
