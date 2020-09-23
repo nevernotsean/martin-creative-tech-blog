@@ -1,12 +1,10 @@
 ---
-date: 2020-08-11T16:44:26-04:00
+date: 2020-08-11T16:44:26.000-04:00
 hero_image: "/content/images/chrome_fxiev0j6ip.png"
 title: FILTERED Vol. 2
 author: Martin CTs
 
 ---
-This is a weekly email called FILTERED, five creative tech links to inspire and inform. Throw on your VR headset and lets go!
-
 **HACK THE PLANET:**
 
 Facebook is holding a hack-a-thon, tasking participants to create AR effects for Instagram Reels.
