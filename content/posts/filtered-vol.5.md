@@ -1,12 +1,10 @@
 ---
-date: 2020-08-31T16:39:03-04:00
+date: 2020-08-31T16:39:03.000-04:00
 hero_image: "/content/images/chrome_fxiev0j6ip.png"
 title: FILTERED Vol. 5
 author: Martin CTs
 
 ---
-This is a tiny weekly email called FILTERED, with five creative tech links to inspire and inform. This issue has a few noteworthy mentions from last week’s SIGGRAPH2020 conference, and these won’t be the last. Warm up your click-finger and let’s go!
-
 **VIRTUAL ALTERNATIVE**
 
 ComplexCon goes virtual with new ComplexLand.com going live in Decemeber.

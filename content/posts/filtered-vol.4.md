@@ -1,12 +1,10 @@
 ---
-date: 2020-08-25T16:42:07-04:00
+date: 2020-08-25T16:42:07.000-04:00
 hero_image: "/content/images/chrome_fxiev0j6ip.png"
 title: FILTERED Vol. 4
 author: Martin CTs
 
 ---
-This is a tiny weekly email called FILTERED, with five creative tech links to inspire and inform. Warm up your click-finger and let’s go!
-
 **Free Basic Registration to SIGGRAPH2020 with code SIGGRAPHBEYOND**
 
 SIGGRAPH 2020 is offering free basic registration for anyone. The emerging tech and computer graphics conference going virtual this year and is happening all week.
