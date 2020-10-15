@@ -5,11 +5,11 @@ title: FILTERED Vol. 8
 author: Martin CTs
 
 ---
-**AR FOR DOGS** - The US Army working on AR glasses for military dogs. The glasses will be wireless, to allow dog handlers to issue commands remotely to dogs in the rare cases.  
+**AI TURNS YOU INTO A TOON** - This AI powered website can turn any photo in a Disneyfied version in a matter of minutes. I gave it a shot and I look like a rejected character from Frozen.
 
-[https://newatlas.com/vr/dog-augmented-reality-glasses-us-army-military-ar-vr/](https://newatlas.com/vr/dog-augmented-reality-glasses-us-army-military-ar-vr/ "https://newatlas.com/vr/dog-augmented-reality-glasses-us-army-military-ar-vr/")
+[https://toonify.justinpinkney.com/](https://toonify.justinpinkney.com/ "https://toonify.justinpinkney.com/")
 
-**ACTUAL LIGHTSABER** - The Hacksmith builds a 4000 degree, retractable plasma sword AKA an actual f*cking lightsaber. 
+**ACTUAL F*CKING LIGHTSABER** - The Hacksmith builds a 4000 degree, retractable plasma sword AKA an actual lightsaber. Stick around until the end to see it melt through a solid steel door.
 
 [https://www.youtube.com/watch?v=xC6J4T_hUKg](https://www.youtube.com/watch?v=xC6J4T_hUKg "https://www.youtube.com/watch?v=xC6J4T_hUKg")
 
