@@ -9,13 +9,13 @@ author: Martin CTs
 
 This programmer creates an A.I. that can play Tetris at 50 moves per second.
 
-[Using A.I. to DOMINATE NERDS in TETRIS](https://www.youtube.com/watch?v=os4DcbpL0Nc&feature=youtu.be)
+[Using A.I. to DOMINATE NERDS in TETRIS](https://bit.ly/31NQAyo)
 
 **ARTIFICIAL STUPIDITY**
 
 Life, uh, finds a way.
 
-[Like_how_these_just_snap_together](https://www.reddit.com/r/InsaneTechnology/comments/j78qfm/like_how_these_just_snap_together/)
+[Like_how_these_just_snap_together](https://bit.ly/2J3Uuwq)
 
 **ROBOTICS**
 
@@ -27,10 +27,10 @@ This cold, unfeeling robot can make a pretty nice, warming cup of coffee.
 
 The reverse of the Toonify site we previously featured, this does the opposite! See what your favorite Pixar character looks like as a real life person.
 
-[Creating "real" versions of Pixar characters using the pixel2style2pixel framework.](https://www.reddit.com/r/MachineLearning/comments/jcuch4/p_creating_real_versions_of_pixar_characters/)
+[Creating "real" versions of Pixar characters using the pixel2style2pixel framework.](https://bit.ly/3jAiMuK)
 
 **ISTHISREALLIFE?**
 
 This amazing holographic display can provide a shared three dimensional image.
 
-[Looking Glass is targeting enterprises and eventually gamers with 8K holographic display](https://www.youtube.com/watch?v=gCVyYSWXLro)
+[Looking Glass is targeting enterprises and eventually gamers with 8K holographic display](https://bit.ly/2HDro6I)
