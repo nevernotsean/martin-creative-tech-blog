@@ -21,7 +21,7 @@ Life, uh, finds a way.
 
 This cold, unfeeling robot can make a pretty nice, warming cup of coffee.
 
-[Tokyo's Robot Barista, Hen-Na Cafe](https://www.youtube.com/watch?v=_TX6LPZQzFQ&feature=youtu.be)
+[Tokyo's Robot Barista, Hen-Na Cafe](https://bit.ly/3mqIcg7)
 
 **MACHINE LEARNING**
 
