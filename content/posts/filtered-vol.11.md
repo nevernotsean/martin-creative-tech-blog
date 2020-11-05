@@ -19,6 +19,8 @@ This website shrinks you down to the size of a COVID virus, taking you on a jour
 
 AI: [This AI Can Tell if You Have Covid-19 Just by Listening to Your Cough, Researchers Say](https://bit.ly/3kZR5gr)
 
+And for their next trick, researchers will train an AI to detect "Kareness"
+
 WHATTAWEBSITE: [You Smile, You Lose](https://bit.ly/3mPUsqE) 
 
 The perfect cure for the post-election anxiety - Watch funny videos, but try not to laugh and score points. (Or maybe the anxiety is your secret weapon to a highscore)
