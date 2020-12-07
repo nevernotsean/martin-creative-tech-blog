@@ -5,7 +5,7 @@ title: FILTERED Vol. 11
 author: Martin CTs
 
 ---
-WHATTAWEBSITE: [The Jokers Escape]( https://bit.ly/34XUabi)
+WHATTAWEBSITE: [The Jokers Escape](https://bit.ly/34XUabi)
 
 If you liked our Martinween event last week, you'll love this Joker themed adventure through an abandoned theme park!
 
@@ -21,6 +21,6 @@ AI: [This AI Can Tell if You Have Covid-19 Just by Listening to Your Cough, Rese
 
 And for their next trick, researchers will train an AI to detect "Kareness"
 
-WHATTAWEBSITE: [You Smile, You Lose](https://bit.ly/3mPUsqE) 
+WHATTAWEBSITE: [You Smile, You Lose](https://bit.ly/3mPUsqE)
 
 The perfect cure for the post-election anxiety - Watch funny videos, but try not to laugh and score points. (Or maybe the anxiety is your secret weapon to a highscore)
